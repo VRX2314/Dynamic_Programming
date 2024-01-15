@@ -7,6 +7,7 @@ Problems Optimized so far:
 * Fibonacci Sequence
 * Grid Traveler Problem
 * Can Sum Problem
+* How Sum Problem
 
 Resources:
 
